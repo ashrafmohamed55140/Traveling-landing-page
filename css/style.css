@@ -1,0 +1,140 @@
+
+
+ /* body{
+    padding: 1em;
+
+
+}  */
+
+.header {
+    background-image: url(../uploads/Section\ →\ image.png);
+    height: auto;
+    width: 100% !important;
+}
+
+.special {
+    color: #c6c6D2;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+li {
+    margin-bottom: 12px;
+    font-weight: 500;
+    font-size: 14.65px;
+    line-height: 28.13px;
+}
+
+dt,
+dd {
+    font-weight: 500;
+    font-size: 14.65px;
+    line-height: 28.13px;
+}
+
+.tourz-text {
+    background-color: #FEF7F4;
+
+}
+
+#Subscribe {
+    background-image: url(../uploads/5.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    background-origin: content-box;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Subscribe-text {
+    color: white;
+    left: 12%;
+    top: 32%;
+    position: absolute;
+}
+
+.Subscribe-text h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left
+}
+.Subscribe-text p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#subscribe-email {
+    background-color: #5D57CC;
+    padding: 25px;
+    position: relative;
+    color: black;
+    font-size: 20px;
+}
+#basic-addon2 {
+    background-color: white;
+    padding: 11px 20px;
+    position: absolute;
+    left: 72%;
+    top: 2px;
+    border-radius: 10px;
+}
+#basic-addon2:hover {
+    color: black;
+    font-weight: 500;
+}
+#work {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.work-img {
+    margin-right: 15px;
+}
+
+.travel-img {
+    height: 299.98px;
+    background-repeat: no-repeat;
+}
+
+.travel-head {
+    margin-top: 15px;
+}
+
+.travel-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.travel-date {
+    margin-right: 15px;
+}
+
+#foot-head {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#foot-text {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
